@@ -1,6 +1,6 @@
 # CourtCounter
 
-This App is made during the Udacity Android Course.
+This app is made during the Udacity Android Course.
 
 The motive of this app is to keep score of two teams during a basketball match.
 * "+3 POINTS" button increase the score by 3.
